@@ -43,10 +43,6 @@ The agent uses a configuration file (`main.py`) that sets up:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Insert license information here]
-
 ## Acknowledgments
 
 - OpenAI for providing the GPT-4 model
